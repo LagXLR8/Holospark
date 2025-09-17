@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/blast_furnace_top",
+    "up": "holospark:block/holo_core_top",
+    "north": "holospark:block/holo_core_side",
+    "east": "holospark:block/holo_core_side",
+    "south": "holospark:block/holo_core_side",
+    "west": "holospark:block/holo_core_side",
+    "particle": "minecraft:block/blast_furnace_top"
+  },
+  "render_type": "solid"
+}

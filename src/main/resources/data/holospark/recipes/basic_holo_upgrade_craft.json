@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "tag": "forge:stained_glass_panes"
+    }
+  },
+  "result": {
+    "item": "holospark:basic_holo_upgrade",
+    "count": 1
+  }
+}
