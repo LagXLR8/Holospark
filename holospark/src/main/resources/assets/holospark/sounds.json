@@ -1,0 +1,10 @@
+{
+  "scan": {
+    "sounds": [
+      {
+        "name": "holospark:scan",
+        "stream": false
+      }
+    ]
+  }
+}

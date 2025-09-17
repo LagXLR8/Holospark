@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:obsidian"
+    },
+    "b": {
+      "item": "holospark:elite_holo_upgrade"
+    }
+  },
+  "result": {
+    "item": "holospark:super_holo_upgrade",
+    "count": 1
+  }
+}

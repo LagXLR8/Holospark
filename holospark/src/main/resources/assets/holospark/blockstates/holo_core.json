@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "holospark:block/holo_core"
+    }
+  }
+}
